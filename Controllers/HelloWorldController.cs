@@ -10,7 +10,7 @@ namespace apiHelloWorld0.Controllers
         [HttpGet(Name = "HelloWorld")]
         public String Get()
         {
-            return  "Hello World";
+            return  "To everybody, Hello World!";
         }
     }
 }
